@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ProductInventory_93\ProductInventory_93\obj\Debug\ProductInventory_93.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\ProductInventory_93\ProductInventory_93\obj\Debug\ProductInventory_93.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ProductInventory_93\ProductInventory_93\bin\Debug\ProductInventory_93.exe.config
+C:\Users\user\source\repos\ProductInventory_93\ProductInventory_93\bin\Debug\ProductInventory_93.exe
+C:\Users\user\source\repos\ProductInventory_93\ProductInventory_93\bin\Debug\ProductInventory_93.pdb
+C:\Users\user\source\repos\ProductInventory_93\ProductInventory_93\obj\Debug\ProductInventory_93.exe
+C:\Users\user\source\repos\ProductInventory_93\ProductInventory_93\obj\Debug\ProductInventory_93.pdb
